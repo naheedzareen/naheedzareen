@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <br>@naheedzareen
-- 👀 I’m interested in git.
+- 👀 I’m interested in <b>git</b>.
 - 🌱 I’m currently learning about git.
 - 💞️ I’m looking to collaborate on github.
 - 📫 How to reach me:through my address
